@@ -10,7 +10,7 @@ h2 {
 </style>
 </head>
 <body>
-<h2 align=center><br>Sistem Temu Kembali Informasi<br><br></h2>
+<h2 align=center><br>BERITA BOLA<br><br></h2>
 <hr>
 <div align=center>
 | <a href="koneksi.php">Koneksi</a> |
