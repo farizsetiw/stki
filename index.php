@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Sistem Temu Kembali</title>
+<title>BERITA BOLA</title>
 <!--<link  href="../jw.png" rel="shortcut icon" type="image/png" />-->
 <style>
 h2 {
